@@ -3,6 +3,5 @@ layout: ../layouts/Layout.astro
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-are you trying to contact me for a
+<a href="mailto:jeromewhi@gmail.com">email</a>
 
-[business inquiry](/business-inquiry) or [something else](/something-else)?

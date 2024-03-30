@@ -1,17 +1,19 @@
 ---
 layout: ../layouts/Layout.astro
-title: Nice Tat Astro Template
+title: Jerome White
 ---
 <!-- Markdown Preview - https://dillinger.io/ -->
 
-# Nice Tat Astro Template
+# Jerome White
 
-[youtube](https://www.youtube.com/watch?v=sEyHnHjhlr4)
+[notepad](/notepad)
 
-[instagram](https://www.instagram.com/caseyneistat/)
+[youtube](https://www.youtube.com/@sixpgc)
+
+[instagram](https://www.instagram.com/sixpgc/)
 
 [onlyfans](/onlyfans)
 
-[twitter](https://twitter.com/Casey)
+[twitter](https://twitter.com/sixpgc)
 
 [contact](/contact)
